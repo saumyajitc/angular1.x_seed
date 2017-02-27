@@ -1,0 +1,24 @@
+{
+  "name": "angular1.x_seed",
+  "version": "1.0.0",
+  "description": "Personal Angular 1.6.x seed project with ES6 implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saumyajitc/angular1.x_seed.git"
+  },
+  "keywords": [
+    "angular",
+    "seed",
+    "es6"
+  ],
+  "author": "Saumyajit Chowdhury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saumyajitc/angular1.x_seed/issues"
+  },
+  "homepage": "https://github.com/saumyajitc/angular1.x_seed#readme"
+}
